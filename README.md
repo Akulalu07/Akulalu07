@@ -1,13 +1,14 @@
-<h1 align="center">Hello Github!!</h1>
+<h1 align="center">Bye Github!!</h1>
 
 ###
-
+I hate that Microsoft do!!!
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akulalu07/Akulalu07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akulalu07/Akulalu07/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akulalu07/Akulalu07/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 ###
 
 <div align="center">
