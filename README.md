@@ -1,7 +1,6 @@
 <h1 align="center">Bye Github!!</h1>
 
-#
-I hate that Microsoft do!!!
+# I hate that Microsoft do!!!
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akulalu07/Akulalu07/output/pacman-contribution-graph-dark.svg">
