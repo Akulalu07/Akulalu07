@@ -8,6 +8,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akulalu07/Akulalu07/output/pacman-contribution-graph.svg">
 </picture>
 -->
+(mini site: https://akulalu07.github.io/ )
 ###
 
 <div align="center">
