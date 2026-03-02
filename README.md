@@ -9,6 +9,8 @@
 </picture>
 -->
 (mini site: https://akulalu07.github.io/ )
+
+(mini blog: https://akulalu07.github.io/blog/)
 ###
 
 <div align="center">
