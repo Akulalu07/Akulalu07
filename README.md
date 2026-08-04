@@ -8,9 +8,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akulalu07/Akulalu07/output/pacman-contribution-graph.svg">
 </picture>
 -->
-(mini site: https://akulalu07.github.io/ )
-
-(mini blog: https://akulalu07.github.io/blog/)
+(mini site: https://someerr.online )
 ###
 
 <div align="center">
@@ -24,6 +22,9 @@
 ###
 
 <div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
@@ -45,15 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="zig logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-</div>
-
-###
-
-<h1 align="left">What I want to Learn</h1>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
