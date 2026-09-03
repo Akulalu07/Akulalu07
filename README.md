@@ -1,5 +1,3 @@
-<h1 align="center">Bye Github!!</h1>
-
 # I hate that Microsoft do!!!
 <!--
 <picture>
@@ -9,11 +7,6 @@
 </picture>
 -->
 (mini site: https://someerr.online )
-###
-
-<div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akulalu07&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -22,9 +15,6 @@
 ###
 
 <div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
